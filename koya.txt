@@ -2,3 +2,5 @@ tera
 koya
 tera
 koya
+tera
+koya
